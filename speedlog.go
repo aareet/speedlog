@@ -1,4 +1,4 @@
-package speedlog
+package main
 
 import (
 	"fmt"
